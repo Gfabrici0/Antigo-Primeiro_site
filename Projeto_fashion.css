@@ -86,8 +86,8 @@ body{
 .about{
     background-color: #003d52;
     padding: 100px;
-    color: white;
-    background-image: url(/Projeto_Fashion/bg_detalhe.png);
+    color: FFFFFF;
+    background-image: url(https://github.com/Gfabrici0/Antigo_Primeiro_site/tree/main/Projeto_Fashion/bg_detalhe.png);
     background-repeat: no-repeat;
     background-position: right bottom;
 }
